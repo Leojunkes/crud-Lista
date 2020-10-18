@@ -1,0 +1,12 @@
+{
+  "name": "crud-Lista",
+  "displayName": "crud-Lista",
+  "expo": {
+    "name": "crud-Lista",
+    "slug": "crud-Lista",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
